@@ -16,7 +16,7 @@ A landing page simula uma página simples de uma empresa de turismo.
 
 Quer conferir e testar sua sorte no jogo? 
 
-[Visite o projeto online](https://eltonprado.github.io/Projeto10_JogoDaAdivinhacao/)
+[Visite o projeto online](https://eltonprado.github.io/Projeto04_WebpageFlutuar/)
 
 <br>
 
