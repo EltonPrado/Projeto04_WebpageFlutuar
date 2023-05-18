@@ -14,7 +14,7 @@ A landing page simula uma página simples de uma empresa de turismo.
 
 <br>
 
-Quer conferir e testar sua sorte no jogo? 
+Quer conferir como ficou essa landing page? 
 
 [Visite o projeto online](https://eltonprado.github.io/Projeto04_WebpageFlutuar/)
 
